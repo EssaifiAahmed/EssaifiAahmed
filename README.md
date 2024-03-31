@@ -10,7 +10,7 @@ Hello! I'm ESSAIFI AHMED, I'm a fullstack developer based in Morocooo.<br>Send m
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EssaifiAahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EssaifiAahmed&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EssaifiAahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compactt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EssaifiAahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
