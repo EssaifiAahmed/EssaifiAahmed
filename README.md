@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm ESSAIFI AHMED, I'm a fullstack developer based in Morocooo.<br>Send me Mail or add me on Linkedin.
+Hello! I'm ESSAIFI AHMED, I'm a backend developer based in Morocooo.<br>Send me Mail or add me on Linkedin.
 
 
 ## 🌐 Socials:
